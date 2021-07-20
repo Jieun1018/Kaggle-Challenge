@@ -1,2 +1,2 @@
 # Kaggle-Challenge
-Kaggle Challenges using Tensorflow/Pytorch
+Kaggle Challenges using Tensorflow
