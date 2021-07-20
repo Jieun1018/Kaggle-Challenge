@@ -3,3 +3,21 @@
   <li>Kaggle Challenges using Tensorflow</li>
   <li>Settings : Using Colab Pro GPU / Tensorflow 2.4.1 / Python 3.7.10</li>
 </ul>
+
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Review</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/c/tensorflow-speech-recognition-challenge">Bag of Words Meets Bags of Popcorn</a></td>
+    <td><a href=""></a></td>
+    <td><a href="https://github.com/Jieun1018/Kaggle-Challenge/blob/main/Kaggle:Bag_of_Words_Meets_Bags_of_Popcorn.ipynb">code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/c/word2vec-nlp-tutorial">Tensorflow Speech Recognition</a></td>
+    <td><a href=""></a></td>
+    <td><a href="https://github.com/Jieun1018/Kaggle-Challenge/blob/main/Kaggle:Tensorflow_Speech_Recognition.ipynb">code</a></td>
+  </tr>
+</table>
