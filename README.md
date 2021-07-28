@@ -13,7 +13,7 @@
   <tr>
     <td><a href="https://www.kaggle.com/c/word2vec-nlp-tutorial">Bag of Words Meets Bags of Popcorn</a></td>
     <td><a href=""></a></td>
-    <td><a href="https://github.com/Jieun1018/Kaggle-Challenge/blob/main/Kaggle:Bag_of_Words_Meets_Bags_of_Popcorn.ipynb">code</a></td>
+    <td><a href="https://github.com/Jieun1018/Kaggle-Challenge/blob/main/Bag_of_Words_Meets_Bags_of_Popcorn.ipynb">code</a></td>
   </tr>
   <tr>
     <td><a href="https://www.kaggle.com/c/tensorflow-speech-recognition-challenge">Tensorflow Speech Recognition</a></td>
