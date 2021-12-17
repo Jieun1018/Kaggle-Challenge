@@ -23,6 +23,6 @@
   <tr>
     <td><a href="https://www.kaggle.com/c/dogs-vs-cats/">Dogs vs. Cats</a></td>
     <td><a href=""></a></td>
-    <td><a href="">code</a></td>
+    <td><a href="https://github.com/Jieun1018/Kaggle-Challenge/blob/main/Dogs_vs_Cats.ipynb">code</a></td>
   </tr>
 </table>
